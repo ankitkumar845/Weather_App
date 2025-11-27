@@ -38,6 +38,8 @@ body{
     flex: 1;
     margin-right: 16px;
     font-size: 18px;
+    /* allow shrinking on small screens */
+    min-width: 0;
 }
 
 .search button{
@@ -106,4 +108,117 @@ body{
    font-size: 14px;
    margin-top: 10px;
    display: none;
+}
+
+/* -------------------------
+   Responsive adjustments
+   ------------------------- */
+
+/* Tablet / small desktop / large phone */
+@media (max-width: 600px) {
+    .card{
+        padding: 30px 20px;
+        margin: 60px auto 0;
+        border-radius: 16px;
+    }
+
+    .search{
+        gap: 8px;
+    }
+
+    .search input{
+        height: 50px;
+        padding: 8px 18px;
+        font-size: 16px;
+        margin-right: 12px;
+        flex: 1;
+        min-width: 0;
+    }
+
+    .search button{
+        width: 50px;
+        height: 50px;
+    }
+
+    .weather-icon{
+        width: 140px;
+        margin-top: 20px;
+    }
+
+    .weather h1{
+        font-size: 64px;
+    }
+
+    .weather h2{
+        font-size: 36px;
+        margin-top: -6px;
+    }
+
+    .details{
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: center;
+        padding: 0 12px;
+        margin-top: 28px;
+        gap: 16px;
+    }
+
+    .col{
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .col img{
+        width: 36px;
+        margin-right: 10px;
+    }
+
+    .humidity, .wind{
+        font-size: 24px;
+        margin-top: 0;
+    }
+}
+
+/* Small phones */
+@media (max-width: 400px) {
+    .card{
+        padding: 20px 16px;
+        margin-top: 36px;
+    }
+
+    .search input{
+        height: 44px;
+        padding: 8px 14px;
+        font-size: 15px;
+    }
+
+    .search button{
+        width: 44px;
+        height: 44px;
+    }
+
+    .weather-icon{
+        width: 110px;
+    }
+
+    .weather h1{
+        font-size: 48px;
+    }
+
+    .weather h2{
+        font-size: 28px;
+    }
+
+    .details{
+        padding: 0 8px;
+        gap: 12px;
+    }
+
+    .col img{
+        width: 28px;
+    }
+
+    .humidity, .wind{
+        font-size: 20px;
+    }
 }
