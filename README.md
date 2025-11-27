@@ -16,7 +16,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technology Used
 
 - **HTML5**
 - **CSS3**
@@ -57,7 +57,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
    ```
 
 
----OtherWise-----in VS Code-----
+---**OtherWise**-----**in VS Code**-----
 <br>
 1.Download Zip File From Github
 <br>
@@ -101,4 +101,3 @@ Feel free to contribute or give suggestions to improve this project!
 
 This project is open-source and free to use.
 
----
