@@ -46,6 +46,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 2. Open the project folder and double-click on index.html
 3. Enter a city name in the search box and get real-time weather details instantly.
 
+
 ---
 
 ## 📦 Installation & Usage
