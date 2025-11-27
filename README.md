@@ -36,7 +36,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
       ├── images     
 ```
 
-
+---
 ## 🚀 How to Run the Project
 
 1. **Download or clone the repository:**
