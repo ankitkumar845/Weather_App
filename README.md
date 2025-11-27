@@ -16,8 +16,6 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 
 ---
 
----
-
 ## 🧰 Tech Stack
 
 - **HTML5**
@@ -29,7 +27,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 
 ## 📂 Project Structure
 
-```Weather_App
+Weather_App
   ├── index.html     
   ├── style.css
   ├── script.js        
@@ -38,7 +36,6 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
       ├── images     
 ```
 
----
 
 ## 🚀 How to Run the Project
 
