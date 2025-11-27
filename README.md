@@ -56,7 +56,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
    open index.html    # macOS
    ```
 
----
+
 ---OtherWise-----in VS Code-----
 <br>
 1.Download Zip File From Github
