@@ -88,6 +88,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 ## 🤝 Contributing
 
 Contributions are welcome! If you’d like to improve the design or add features, feel free to fork the repo and submit a pull request.
+
 ---
 
 ## 📬 Feedback
@@ -95,10 +96,12 @@ Contributions are welcome! If you’d like to improve the design or add features
 Feel free to contribute or give suggestions to improve this project!
 <br>
 ⭐ If you like this project, give it a star on GitHub!
+
 ---
 
 ## 📄 License
 
 This project is open-source and free to use.
+
 ---
 
