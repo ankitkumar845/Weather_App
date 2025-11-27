@@ -27,7 +27,7 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 
 ## 📂 Project Structure
 
-Weather_App
+```Weather_App
   ├── index.html     
   ├── style.css
   ├── script.js        
