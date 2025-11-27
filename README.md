@@ -87,7 +87,6 @@ This app fetches real-time weather data from the **OpenWeatherMap API** and disp
 ## 🤝 Contributing
 
 Contributions are welcome! If you’d like to improve the design or add features, feel free to fork the repo and submit a pull request.
-
 ---
 
 ## 📬 Feedback
